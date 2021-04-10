@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-[Live Site](https://theatre-speech.netlify.app/)
+[Live Site](https://react-js-landingpage.netlify.app/)
 
 
 ## View:
