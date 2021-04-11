@@ -19,6 +19,10 @@ const Footer = () => {
         }
     }
 
+    .footer:nth-child(2){
+        background-color: rgba(0, 0, 4, .9);
+    }
+
     .footer-list{
         list-style-type: none;
     }
